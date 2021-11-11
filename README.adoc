@@ -1,5 +1,7 @@
-Tig: text-mode interface for Git
+Nvs: text-mode interface for svn forked from tig.
 ================================
+It is just experiment.
+
 :docext: adoc
 
 image:https://github.com/jonas/tig/workflows/Linux/badge.svg[Linux CI,link=https://github.com/jonas/tig/actions?query=workflow%3ALinux]
